@@ -29,12 +29,22 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 ...\*note 1<br>
 ...\*note 2<br>
 \*\*\*note 3<br>
-
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+***
+- [ ] todo list
+- [ ] 2nd things
+***
+python code
 
 ```python
 1 s = "Python synyax highlighting"
 2 print s
 ```
+***
+javascript code
 
-- [ ]todo 
+```js
+1 var s = "JavaScript syntax highlighting";
+2 alert(s)
+```
+***
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
