@@ -11,4 +11,4 @@ School test
 
 ![高科大](https://www.nkust.edu.tw/var/file/0/1000/img/513/539900619.png)
 
-![影片測試](https://www.youtube.com/watch?v=sSm2dRarhPo&ab_channel=CodingTech)
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
